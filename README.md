@@ -1,2 +1,2 @@
-# ALX zero day task
+# ALX zero day
 My first readme
